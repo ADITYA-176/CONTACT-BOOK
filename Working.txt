@@ -1,6 +1,6 @@
 ** Objective Of Project :
     
-     To Effective store basic details of person using Data Structres(Name,Father Name, Mother Name,Phone Number)
+     To Effectively store basic details of person using Data Structres(Name,Father Name, Mother Name,Phone Number)
      
 ** Application of Project :
 
