@@ -1,0 +1,42 @@
+** Objective Of Project :
+    
+     To Effective store basic details of person using Data Structres(Name,Father Name, Mother Name,Phone Number)
+     
+** Application of Project :
+
+     Practical Application can be used to store/orgainse the contacts in Mobile i.e it can be used in PHONE BOOK
+     
+** CONCEPTS USED
+  
+    Trie Data Structure(Our Project's Vital Data Structure)
+    
+    along side with Primitive/Non-Primitive Data Types
+    
+    Class(OOPS) for Creating Trie
+    
+    Pointers for handling Trie
+    
+** WORKING OF PROJECT
+
+    The input is taken from user, input consists of Name, Father's Name, Mother's Name, UID No, Phone Number
+    
+    Using Phone Number as Base we build a Trie Using a Phone Number, and only Phone Number is stored in Trie 
+    
+    Data Structure, after building the Trie Using Phone Number, we save details of a person in external File
+    
+    Using File Management/Accessing Methods of CPP, and the External File is saved as <"PhoneNumber.txt">,
+    
+    Now we can Access the basic detials of person from that File, like wise updation can also be done.
+    
+    
+ ** Functionalities/Methods in Project
+    
+    * InsertRecord for inserting Record
+    * ModifyRecord for Updating Record
+    * List All Records
+  
+** Future Work
+    
+    * Adding a Search Method
+     
+ 
